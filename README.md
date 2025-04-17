@@ -13,7 +13,4 @@ Este es el primer proyecto del diplomado de fundamentos de programación. Se tra
 - Vista detallada con descripción y autor.
 - Formulario de contacto con validación.
 
-## Publicado en GitHub Pages
-👉 [Ver en línea] agragar enlac
-
 ## Creado por: Juan Sebastián Villalba Rodríguez
